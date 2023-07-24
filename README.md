@@ -137,23 +137,23 @@ python3 bot.py
 ```
 🌟 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/ideafy)
+[![telegram badge](https://img.shields.io/badge/Telegram-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/yedekho)
 
 🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
 
-[![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
+[![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/yedekho)
 
 
 🌟 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨
  
- - ❤️ Thank you [MrMalik](https://github.com/mrmalikoffl) for helping us in this journey ❤️.
- - ❤️ From the side of [MrMalik](https://github.com/mrmalikoffl) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
+ - ❤️ Thank you [Khrish](https://github.com/) for helping us in this journey ❤️.
+ - ❤️ From the side of [KHRISH JAIN ](https://github.com) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
  - ❤️ Thanks To All In This Journey.
 
 🌟 𝐍𝐨𝐭𝐞
 
-[Join Developer Channel](https://t.me/+rN9QCFgIihgyZWM1): MS Bots
+[Join Developer Channel](https://telegram.me/yedekho): YeDekho
 
 🌟 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
 

@@ -10,14 +10,15 @@
       "best",
       "indian",
       "pyrogram",
+      "movie",
       "media",
       "search",
       "channel",
       "index",
       "inline"
     ],
-    "website": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
-    "repository": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
+    "website": "https://telegram.dog/yedekho",
+    "repository": "https://github.com/ideafy1/yedekho",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

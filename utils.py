@@ -384,7 +384,7 @@ async def get_shortlink(link):
         https = "https"
         link = link.replace("http", https)
 
-    url = f'https://tnlink.in/api'
+    url = f'https://api.shareus.io/easy_api?key='
     params = {'api': URL_SHORTNER_WEBSITE_API,
               'url': link,        
               }

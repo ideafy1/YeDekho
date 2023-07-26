@@ -1,4 +1,4 @@
-##MS-TAMIL-BOTZ
+##YeDekho-Bots-by Khrish
 import re
 from os import environ
 

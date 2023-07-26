@@ -21,7 +21,7 @@
     "repository": "https://github.com/ideafy1/yedekho",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6459209111:AAGSkOMUEPebYtK0JFUA1iILRJmGOGW-62o",
             "required": true
         },
         "API_ID": {

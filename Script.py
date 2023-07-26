@@ -12,34 +12,35 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/MsFilmFactory_Bot')
-    START_TXT = environ.get("START_TXT", '''Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million files to serve you \n\nKeep Support Me''')
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/yedekho_lookup')
+    START_TXT = environ.get("START_TXT", '''heyaa 🥹 you finnally arrived, i really missed you 🫂🥺❤️, remember me 😅{},
+are I'm (yedekho)<a href=https://t.me/{}>{}</a>,\n\nYou know what , Now I've became more powerful 🦾 and a bit mature 😁 too''')
+    HELP_TXT = """are suno {}
+if you need help , 😄 here are my help commands"""
     ABOUT_TXT = """
-╔════❰ MS FILM FACTORY ❱═❍⊱❁۪۪
+╔════❰ 𝙔𝙚𝘿𝙚𝙠𝙝𝙤 𝙎𝙚𝙖𝙧𝙘𝙝 𝙀𝙣𝙜𝙞𝙣𝙚 🔍🤩 ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/mrmalik_offl>Mr Malik</a> ✨
+║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/SpidyRockss>KHRISH JAIN ⚡</a> ✨
 ║ ┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║ ┣⪼ Designer: <a href=https://t.me/ideafy>ADITYA 👁️</a> ⚡
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ MS FILM FACTORY ]
+║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: RENDER
+║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ YeDekho Search Engine 🔍 ]
 ║ ┗━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
-    SOURCE_TXT = """<b>Ms Film Factory is an open source project</b>
+    SOURCE_TXT = """<b>YeDekho search 🔍 engine is a devlopmental idea</b>
 
-You can easily get its source code from github - <a href='https://github.com/mrmalikoffl/MsFilmFactoryV2'>Mr Malik</a>"""
+You can easily talk to it's developers from telegram - <a href='https://telegram.me/ideafy'>ADITYA</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. Search Bot should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+2. Only admins are allowed to filters in a chat.
+3. Alert buttons have a limit of 64 characters.
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
@@ -64,9 +65,9 @@ You can easily get its source code from github - <a href='https://github.com/mrm
 
 <b>NOTE:</b>
 1. Make me the admin of your channel if it's private.
-2. make sure that your channel does not contains camrips, porn and fake files.
+2. Make sure that your channel does not contains camrips, porn and fake files and CP 😡.
 3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+ I'll add all the files in that channel to my collection and will serve you better 😊."""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -108,7 +109,7 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """
-╔════❰ MS FILM FACTORY ❱═❍⊱❁۪۪
+╔════❰ YeDekho Search Engine 🔍⚡❱═❍⊱❁۪۪
 ║┏━━━━━━━━━━━━━━━➣
 ║┣⪼ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ║┣⪼ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
@@ -122,7 +123,7 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """#NewFamilyMember
+    LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
 """

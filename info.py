@@ -72,8 +72,8 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'tnlink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'fb546a556b8f7fe34ea91af8d2c5f69df0de28c8')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shareus.io/')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'fMDCfdHbglU811sJLQSQMinDXCB3')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 300))
@@ -83,10 +83,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/Tn68_tutorials/3"
+DOWNLOAD_TEXT_URL = "https://t.me/yedekho/24068"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/TN68_FilmFactory"
+CAPTION_BUTTON = "YeDekho Specialz ⚡🤩"
+CAPTION_BUTTON_URL = "https://t.me/yedekho_in"
 
    # Auto Delete For Bot Sending Files #

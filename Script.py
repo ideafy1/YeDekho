@@ -13,7 +13,7 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/yedekho_lookup')
-    START_TXT = environ.get("START_TXT", '''heyaa 🥹 you finnally arrived, i really missed you 🫂🥺❤️, remember me 😅{},
+    START_TXT = environ.get("START_TXT", '''heyaa 🥹 you're back again, i really missed you 🫂🥺❤️, remember me 😅{},
 are I'm (yedekho)<a href=https://t.me/{}>{}</a>,\n\nYou know what , Now I've became more powerful 🦾 and a bit mature 😁 too''')
     HELP_TXT = """are suno {}
 if you need help , 😄 here are my help commands"""

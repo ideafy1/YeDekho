@@ -33,7 +33,7 @@
             "required": true
         },
         "CHANNELS": {
-            "description": "-1910170881",
+            "description": "-1001544742746",
             "required": false
         },
         "ADMINS": {
@@ -45,7 +45,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "-1528659895",
+            "description": "-1001528659895",
             "required": true
         },
         "AUTH_USERS": {
@@ -53,11 +53,11 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "-1910170881",
+            "description": "-1001544742746",
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://yedekho:<Achiadi123>@cluster0.xomgxtz.mongodb.net/?retryWrites=true&w=majority",
+            "description": "mongodb+srv://yedekho:Achiadi123@cluster0.xomgxtz.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
@@ -65,8 +65,8 @@
             "required": false
         },
         "COLLECTION_NAME": {
-            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "ideafy_files",
+            "description": "Telegram_files",
+            "value": "Telegram_files",
             "required": false
         }
     },

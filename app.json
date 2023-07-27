@@ -33,7 +33,7 @@
             "required": true
         },
         "CHANNELS": {
-            "description": "-1983289315",
+            "description": "-1802879263,@yedekho",
             "required": false
         },
         "ADMINS": {
@@ -41,7 +41,7 @@
             "required": true
         },
         "PICS": {
-            "description": "https://telegra.ph/file/301e7a9c2573f5e7cf957.png",
+            "description": "https://telegra.ph/file/4767004d8095009b56cab.jpg",
             "required": false
         },
         "LOG_CHANNEL": {

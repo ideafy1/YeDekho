@@ -33,7 +33,7 @@
             "required": true
         },
         "CHANNELS": {
-            "description": "-1802879263,@yedekho",
+            "description": "-1802879263",
             "required": false
         },
         "ADMINS": {
